@@ -1,0 +1,45 @@
+/*BEM*/
+body {
+    background-color:#F5F7F8;
+
+}
+
+
+.cabecalho {
+    /*cor de fundo 
+    borda embaixo*/
+    border:4px solid purple ;
+border-radius: 2% ;
+}
+
+.cabecalho-titulo {
+    font-size: 30px ;
+    color:#624E88;
+}
+
+.cabecalho_menu {
+    /*tamanho e espaçamento*/
+}
+
+.cabecalho_lista {
+    /*tirar a bolinha
+    alterar a cor
+    colocar lado a lado*/
+}
+
+.cabecalho_lista-central {
+    /*Alinhamento centrar*/
+}
+
+.sorteio {
+
+}
+
+.sorteio_titulo {
+
+}
+
+.sorteio_paragrafo {
+
+}
+
